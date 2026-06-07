@@ -46,11 +46,19 @@ Our focus is the oil & gas ecosystem in Angola. Not as consultants. As builders.
 
 ---
 
+## Why VORA
+
+We're building in Angola, for Angola. The oil sector runs this country — but local tech is still under-represented. That's changing.
+
+**VORA** exists to be part of that change.
+
+---
+
 ## Contact
 
 📧 vora.tech.ao@gmail.com
 
-📍 Angola
+📍 Luanda, Angola
 
 ---
 
